@@ -1,9 +1,7 @@
-# Automated_Airflow_Data_Engineering
-
-
-![image](https://user-images.githubusercontent.com/28874545/180042811-861e4ce8-47ee-45a9-803d-bd05b0d3da44.png)
-
 # Orchestration and Automation of Data Engineering Pipelines using Apache Airflow
+
+
+![image](https://user-images.githubusercontent.com/28874545/180042983-b22de46f-4bc2-4b03-b88a-c44f51ea6600.png)
 
 During the lifecycle of Data Engineering we come across a variety of tools which have different functionality to handle different data and data types. These tools often are independent of each other and if there are use cases which involve sending the output of table from a tool to a different table then, this involves the creation of scripts and cron jobs and the installation of KEYS and other authentication information which run on a compute resource. It can become tedious to maintain these scripts and rotation of KEYS to ensure the smooth automated running of data pipelines and workflows.
 
